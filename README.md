@@ -1,5 +1,5 @@
 # Favorita-Store-Sales
-A time Series Forecasting project that the model predicts the unit sales for thousands of items sold at different Favorita stores based on the Sales Data provided. 
+A time Series Forecasting project where the model predicts the unit sales for thousands of items sold at different Favorita stores based on the Sales Data provided. 
 
 Specifically, you are to build a model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.
 
@@ -110,3 +110,6 @@ Good: Model has RMSLE of 0.3
 Fair: Model has RMSLE of 0.4
 
 Poor: Model has RMSLE of 0.4 +
+
+### License
+MIT
